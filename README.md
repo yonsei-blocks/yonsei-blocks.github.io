@@ -1,37 +1,9 @@
-## Webjeda Hagura Theme
+# Welcome to yonsei-blocks.github.io
 
-[**Demo**](http://webjeda.com/hagura)
+여기에 연세블럭스의 코어인 [yonseiblocks](https://github.com/yonsei-blocks/yonseiblocks)에서 진행 상황을 주기적으로 기록합니다. 코드를 분석하실 때 참고해주시기 바랍니다.
 
-Hagura is a theme made for blogs with long text paragraphs. Made to be easy on eyes as well with a switchable theme.
-
-Suitable fonts are selected for better readability. Since the theme is created for smartphone reading, the theme is very light and it loads instantly even on a slow data connection.
-
-The theme comes with pre-installed analytics, disqus and html compressor. But make sure you change key parameters in the _config.yml file.
-
-
-
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready at https://username.github.io/hagura/
-
-
-Default theme will look like this
-
-![webjeda hagura jekyll theme](http://webjeda.com/hagura/images/hagura-1.png)
-
-Switch to Dark Theme
-
-![webjeda hagura dark jekyll theme](http://webjeda.com/hagura/images/hagura-dark-jekyll-theme.png)
-
-This theme is responsive.
-
-![webjeda hagura responsive jekyll theme](http://webjeda.com/hagura/images/hagura-responsive.png)
-
-
-## Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
+## Template
+This website is based on [Hagura](http://webjeda.com/hagura).
 
 ## License
-MIT License 
+Yonsei Blocks Core is released under the terms of the MIT license. See [LICENSE](LICENSE) for more information or see [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
